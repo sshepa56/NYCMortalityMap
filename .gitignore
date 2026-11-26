@@ -1,0 +1,5 @@
+# JupyterLite build output (created by the GitHub Action, or if you build locally)
+_site/
+_jupyterlite/
+.jupyterlite.doit.db
+.ipynb_checkpoints/

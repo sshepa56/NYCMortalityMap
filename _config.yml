@@ -1,0 +1,23 @@
+# Minimal GitHub Pages config.
+# Jekyll builds the site from this repo (run by .github/workflows/pages.yml).
+# README.md becomes the home page, and links to other .md files are
+# rewritten to their .html versions when the site is built.
+title: Python Project
+description: An INFO-664 Project
+
+# The notebook/ folder is built separately by JupyterLite (see
+# .github/workflows/pages.yml), so Jekyll should skip it.
+exclude:
+  - notebook
+
+#Fixes "double heading" error sometimes seen on certain themes
+titles_from_headings:
+  strip_title: true
+
+# Theme: keep exactly one "theme:" line uncommented.
+# To switch, add a # in front of the current theme and remove the # from another.
+theme: minima
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-slate
