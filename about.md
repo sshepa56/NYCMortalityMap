@@ -93,31 +93,12 @@ Description
 | Essential Plan   |                   181 |  16.36 |                 4.51 |      0    | 14.03 | 15.88 | 19.2  |     32.66 |    15.88 |      20.31 |      -0.04 |       2.84 |   32.66 |  5.17 |    605709           |                           17.32 |
 
 
-<iframe
-    src="NYC_Medicaid_vs_Essential_Plan.html"
-    width="100%"
-    height="750"
-    style="border: none;"
-    loading="lazy"
-    title="Medicaid vs. Essential Plan Enrollment">
-</iframe>
 ## Medicaid vs. Essential Plan Enrollment
 
 This interactive scatter plot examines the relationship between
 Medicaid and Essential Plan enrollment percentages across New York
 City ZIP codes. Each bubble represents a ZIP code, with bubble size
 corresponding to total enrollment across the selected insurance programs.
-
-<iframe
-    src="{{ '/NYC_Medicaid_vs_Essential_Plan.html' | relative_url }}"
-    width="100%"
-    height="750"
-    style="border: none;"
-    loading="lazy"
-    title="Medicaid vs. Essential Plan Enrollment">
-</iframe>
-
-[Open interactive visualization in full screen]({{ '/NYC_Medicaid_vs_Essential_Plan.html' | relative_url }})
----
+ 
 
 Next: [Code Examples →](embedding-code.md)
