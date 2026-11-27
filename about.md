@@ -25,7 +25,17 @@
 </p>
   
 
+## Cause of Death by Community District: Scatter Plot
 
+![Scatter plot of Cause of Death by Community District](CauseofDeathbyCommunityDistrictScatterplot.png)
+<p align="center">
+  <img
+    src="DistributionofDeathsbyCause2023Vertical.png"
+    alt="Cause of Death by Community District Scatterplot"
+    width="100%"
+  />
+</p>
+  
 
 
 
