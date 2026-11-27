@@ -7,7 +7,7 @@
 To add an image, put the image file in the repo and link to it with an exclamation mark in front:
 
 ```markdown
-![Bar chart of average US Senate polling by state](average-senate-polling-late-october-nov.png)
+![Bar chart of Death Counts by Gender and Community District](DeathCountsbyGenderBarChartVertical.png)
 ```
 
 ![Bar chart of average US Senate polling by state, split into Democrat, other/undecided, and Republican voter intention](average-senate-polling-late-october-nov.png)
