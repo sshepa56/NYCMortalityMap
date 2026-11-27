@@ -3,6 +3,7 @@
 [← Back to home](README.md)
 
 ## Gender and Age Distribution by Community District
+Description 
 
 <p align="center">
   <img
@@ -15,7 +16,7 @@
 ---
 
 ## Distribution of Cause of Death
-
+Description
 <p align="center">
   <img
     src="DistributionofDeathsbyCause2023Vertical.png"
@@ -26,6 +27,7 @@
   
 
 ## Cause of Death by Community District: Scatter Plot
+Description 
 <p align="center">
   <img
     src="CauseofDeathbyCommunityDistrictScatterplot.png"
