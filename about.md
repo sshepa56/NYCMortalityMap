@@ -42,6 +42,19 @@ Description
 
 ### NYC Cause of Death Statistics  
 
+| Statistic                    | Value     |
+|:-----------------------------|:----------|
+| Total Deaths with Known Age  | 49947.0   |
+| Estimated Mean Age           | 73.3      |
+| Estimated Standard Deviation | 16.42     |
+| Estimated Variance           | 269.54    |
+| Median Age Group             | Age 75-79 |
+| Modal Age Group              | Age 85+   |
+| First Quartile Age Group     | Age 60-64 |
+| Third Quartile Age Group     | Age 85+   |
+
+### NYC Cause of Death Statistics  
+
 |                                      |   Districts with Data |   Mean |   Standard Deviation |   Minimum |     Q1 |    Q2 |    Q3 |   Maximum |   Total Deaths |   Median |   Variance |   Skewness |   Kurtosis |   Range |    IQR |
 |:-------------------------------------|----------------------:|-------:|---------------------:|----------:|-------:|------:|------:|----------:|---------------:|---------:|-----------:|-----------:|-----------:|--------:|-------:|
 | Heart disease                        |                    59 | 226    |               100.1  |        32 | 154    | 219   | 288   |       481 |          13334 |    219   |   10019.4  |       0.36 |      -0.33 |     449 | 134    |
