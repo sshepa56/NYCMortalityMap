@@ -69,14 +69,7 @@ Description
 | HIV                                  |                    23 |   8.74 |                 4.27 |         5 |   5    |   7   |  11   |        17 |            201 |      7   |      18.2  |       0.91 |      -0.63 |      12 |   6    |
 
 
-**Tip:** You don't have to type tables by hand. pandas can write a Markdown table for you. Run this in your notebook and paste the result into your page:
-
-```python
-print(df.describe().round(2).to_markdown())
-```
-
-(`to_markdown()` needs the `tabulate` package: `conda install tabulate`.)
-
+ 
 
 ---
 
