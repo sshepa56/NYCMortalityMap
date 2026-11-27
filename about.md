@@ -38,9 +38,9 @@ Description
 
 
 
-### Tables
+## Tables
 
-## NYC Cause of Death Statistics  
+### NYC Cause of Death Statistics  
 
 |                                      |   Districts with Data |   Mean |   Standard Deviation |   Minimum |     Q1 |    Q2 |    Q3 |   Maximum |   Total Deaths |   Median |   Variance |   Skewness |   Kurtosis |   Range |    IQR |
 |:-------------------------------------|----------------------:|-------:|---------------------:|----------:|-------:|------:|------:|----------:|---------------:|---------:|-----------:|-----------:|-----------:|--------:|-------:|
