@@ -2,7 +2,7 @@
 
 [← Back to home](README.md)
 
-### Images
+### Gender and Age Distribution By Community Districts
 
 To add an image, put the image file in the repo and link to it with an exclamation mark in front:
 
