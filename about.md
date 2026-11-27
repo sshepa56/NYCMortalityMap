@@ -23,9 +23,6 @@ Markdown images always fill the width of the page. To choose a size, use an HTML
 <img src="women-artworks.png" alt="Bar chart of artists with the most works with 'women' in the title" width="500">
 ```
 
-<img src="women-artworks.png" alt="Bar chart of artists with the most works with 'women' in the title. Edgar Degas has the most, with 14." width="500">
-
-
 ## Distribution of Cause of Death
 
 
