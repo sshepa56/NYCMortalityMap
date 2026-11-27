@@ -8,9 +8,7 @@ To add an image, put the image file in the repo and link to it with an exclamati
 
 ```markdown
 ![Bar chart of Death Counts by Gender and Community District](DeathCountsbyGenderBarChartVertical.png)
-```
-
-![Bar chart of average US Senate polling by state, split into Democrat, other/undecided, and Republican voter intention](average-senate-polling-late-october-nov.png)
+``` lican voter intention](average-senate-polling-late-october-nov.png)
 
 <img width="1108" height="2200" alt="DeathCountsbyGenderBarChartVertical" src="https://github.com/user-attachments/assets/bd6d91b4-e0df-4836-a011-8bb97c4d42b4" />
 
