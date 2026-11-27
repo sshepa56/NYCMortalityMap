@@ -12,17 +12,7 @@
 ``` lican voter intention](DeathCountsbyGenderBarChartVertical.png)
 
 <img width="1108" height="2200" alt="DeathCountsbyGenderBarChartVertical" src="https://github.com/user-attachments/assets/bd6d91b4-e0df-4836-a011-8bb97c4d42b4" />
-
-*Average US Senate polling by state, late October to November 2.*
-
-The text in the square brackets is the **alt text**.
-
-Markdown images always fill the width of the page. To choose a size, use an HTML `<img>` tag instead. This works on GitHub.com and on the published site:
-
-```html
-<img src="women-artworks.png" alt="Bar chart of artists with the most works with 'women' in the title" width="500">
-```
-
+ 
 ## Distribution of Cause of Death
 
 
