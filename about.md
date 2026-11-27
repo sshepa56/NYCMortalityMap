@@ -82,8 +82,23 @@ Description
 | HIV                                  |                    23 |   8.74 |                 4.27 |         5 |   5    |   7   |  11   |        17 |            201 |      7   |      18.2  |       0.91 |      -0.63 |      12 |   6    |
 
 
- 
 
----
+ ## NYC Insurance Enrollment Statistics
+ |                  |   ZIP Codes with Data |   Mean |   Standard Deviation |   Minimum |    Q1 |    Q2 |    Q3 |   Maximum |   Median |   Variance |   Skewness |   Kurtosis |   Range |   IQR |   Total Enrollments |   Overall Enrollment Percentage |
+|:-----------------|----------------------:|-------:|---------------------:|----------:|------:|------:|------:|----------:|---------:|-----------:|-----------:|-----------:|--------:|------:|--------------------:|--------------------------------:|
+| Medicaid         |                   181 |  75.01 |                 7.46 |     57.57 | 69.98 | 75.79 | 80.14 |    100    |    75.79 |      55.66 |      -0.06 |       0.55 |   42.43 | 10.16 |         2.67504e+06 |                           76.5  |
+| CHP              |                   181 |   4.02 |                 1.87 |      0    |  2.8  |  3.86 |  5.07 |     10.53 |     3.86 |       3.51 |       0.25 |       0.74 |   10.53 |  2.27 |    148653           |                            4.25 |
+| QHP APTC w/o CSR |                   181 |   1.4  |                 1.41 |      0    |  0.47 |  0.93 |  1.83 |      6.29 |     0.93 |       2    |       1.54 |       1.78 |    6.29 |  1.36 |     33542           |                            0.96 |
+| QHP Full Pay     |                   181 |   3.21 |                 5.8  |      0    |  0    |  0.7  |  2.79 |     31.47 |     0.7  |      33.64 |       2.37 |       5.29 |   31.47 |  2.79 |     33643           |                            0.96 |
+| Essential Plan   |                   181 |  16.36 |                 4.51 |      0    | 14.03 | 15.88 | 19.2  |     32.66 |    15.88 |      20.31 |      -0.04 |       2.84 |   32.66 |  5.17 |    605709           |                           17.32 |
+
+
+## Medicaid vs. Essential Plan Enrollment
+
+This interactive scatter plot examines the relationship between
+Medicaid and Essential Plan enrollment percentages across New York
+City ZIP codes. Each bubble represents a ZIP code, with bubble size
+corresponding to total enrollment across the selected insurance programs.
+ 
 
 Next: [Code Examples →](embedding-code.md)
