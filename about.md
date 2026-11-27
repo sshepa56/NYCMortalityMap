@@ -2,20 +2,28 @@
 
 [← Back to home](README.md)
 
-## Gender and Age Distribution By Community Districts
+## Gender and Age Distribution by Community District
 
-<img width="1108" height="2200" alt="DeathCountsbyGenderBarChartVertical" src="https://github.com/user-attachments/assets/717c2215-92db-4374-b64b-c4b2f63fc891" />
+<p align="center">
+  <img
+    src="DeathCountsbyGenderBarChartVertical.png"
+    alt="Death Counts by Gender and Community District"
+    width="100%"
+  />
+</p>
 
-![Bar chart of Death Counts by Gender and Community District](DeathCountsbyGenderBarChartVertical.png)
-``` lican voter intention](DeathCountsbyGenderBarChartVertical.png)
- 
+---
+
 ## Distribution of Cause of Death
 
-![Bar chart of Cause of Death by Community District](DistributionofDeathsbyCause2023Vertical.png)
-``` lican voter intention](DistributionofDeathsbyCause2023Vertical.png)
-<img width="1017" height="1800" alt="DistributionofDeathsbyCause2023Vertical" src="https://github.com/user-attachments/assets/2d9859aa-264e-4d40-94fc-8cf010e52f17" />
-
-
+<p align="center">
+  <img
+    src="DistributionofDeathsbyCause2023Vertical.png"
+    alt="Distribution of Deaths by Cause and Community District"
+    width="100%"
+  />
+</p>
+  
 
 
 
