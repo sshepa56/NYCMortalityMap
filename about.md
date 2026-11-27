@@ -40,8 +40,7 @@ Description
 
 ### Tables
 
-Markdown tables use `|` to separate columns, and a row of dashes under the header row. Add a `:` on the right side of the dashes to right-align a column, which makes numbers easier to compare:
- 
+## NYC Cause of Death Statistics  
 
 |                                      |   Districts with Data |   Mean |   Standard Deviation |   Minimum |     Q1 |    Q2 |    Q3 |   Maximum |   Total Deaths |   Median |   Variance |   Skewness |   Kurtosis |   Range |    IQR |
 |:-------------------------------------|----------------------:|-------:|---------------------:|----------:|-------:|------:|------:|----------:|---------------:|---------:|-----------:|-----------:|-----------:|--------:|-------:|
