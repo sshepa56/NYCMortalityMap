@@ -9,11 +9,11 @@ This project examines geographic patterns in mortality across New York City usin
 
 ## Datasets
 **Sources**: U.S. Census, NYC Open Data, NY State
-1. Deathratebycommunitydistrict.csv: Mortality data by NYC community district, including total deaths and population.
-2 . Censuspopulationbycommunitydistrict2020.csv: Population data used to calculate crude death rates.
-3. EnrollmentbyZipcodeandWrittenLanguage.csv: Health insurance enrollment counts by ZIP code, program type, and preferred written language.
-4. nyc_districts.geojson: Geographic boundaries for NYC community districts.
-5. nyc-zip-code-tabulation-areas-polygons.geojson: Geographic boundaries for NYC ZIP codes.
+- [Mortality data by NYC community district, including total deaths and population](Deathratebycommunitydistrict.csv)
+- [Population data used to calculate crude death rates](Censuspopulationbycommunitydistrict2020.csv)
+- [Health insurance enrollment counts by ZIP code, program type, and preferred written language](EnrollmentbyZipcodeandWrittenLanguage.csv)
+- [Geographic boundaries for NYC community districts](nyc_districts.geojson)
+- [Geographic boundaries for NYC ZIP codes](nyc-zip-code-tabulation-areas-polygons.geojson)
 
 ## Pages
 - [Demographic and Cause of Death Distribution](about.md)
