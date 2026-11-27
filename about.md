@@ -26,8 +26,6 @@
   
 
 ## Cause of Death by Community District: Scatter Plot
-
-![Scatter plot of Cause of Death by Community District](CauseofDeathbyCommunityDistrictScatterplot.png)
 <p align="center">
   <img
     src="CauseofDeathbyCommunityDistrictScatterplot.png"
@@ -35,8 +33,6 @@
     width="100%"
   />
 </p>
-  
-
 
 
 
