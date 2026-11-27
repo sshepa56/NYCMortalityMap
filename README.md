@@ -17,7 +17,7 @@ This project examines geographic patterns in mortality across New York City usin
 
 ## Pages
 - [Demographic and Cause of Death Distribution](about.md)
-- [Interactive Map NYC mortality and insurance coverage] (InteractiveMap.md)
+- [Interactive Map NYC mortality and insurance coverage](InteractiveMap.md)
 - [Code examples](embedding-code.md) — an example page with code examples (both as static markdown and as interactive [pyodide](https://pyodide.org/en/stable/) snippets)
 - [A JupyterLite notebook](notebook/notebooks/index.html?path=week10.ipynb) hosted on your GitHub pages site, which can run in the browser without your viewers needing to have Jupyter Lab/Anaconda etc installed
 
