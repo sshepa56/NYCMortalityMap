@@ -82,7 +82,7 @@ Description
 | HIV                                  |                    23 |   8.74 |                 4.27 |         5 |   5    |   7   |  11   |        17 |            201 |      7   |      18.2  |       0.91 |      -0.63 |      12 |   6    |
 
 
- ## Enrollment Statistics
+ ## Health Plan Enrollment Statistics
  
  |                  |   ZIP Codes with Data |   Mean |   Standard Deviation |   Minimum |    Q1 |    Q2 |    Q3 |   Maximum |   Median |   Variance |   Skewness |   Kurtosis |   Range |   IQR |   Total Enrollments |   Overall Enrollment Percentage |
 |:-----------------|----------------------:|-------:|---------------------:|----------:|------:|------:|------:|----------:|---------:|-----------:|-----------:|-----------:|--------:|------:|--------------------:|--------------------------------:|
