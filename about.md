@@ -93,6 +93,14 @@ Description
 | Essential Plan   |                   181 |  16.36 |                 4.51 |      0    | 14.03 | 15.88 | 19.2  |     32.66 |    15.88 |      20.31 |      -0.04 |       2.84 |   32.66 |  5.17 |    605709           |                           17.32 |
 
 
+<iframe
+    src="NYC_Medicaid_vs_Essential_Plan.html"
+    width="100%"
+    height="750"
+    style="border: none;"
+    loading="lazy"
+    title="Medicaid vs. Essential Plan Enrollment">
+</iframe>
 ---
 
 Next: [Code Examples →](embedding-code.md)
