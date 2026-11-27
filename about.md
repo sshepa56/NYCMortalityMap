@@ -2,9 +2,7 @@
 
 [← Back to home](README.md)
 
-### Gender and Age Distribution By Community Districts
-
-To add an image, put the image file in the repo and link to it with an exclamation mark in front:
+## Gender and Age Distribution By Community Districts
 
 <img width="1108" height="2200" alt="DeathCountsbyGenderBarChartVertical" src="https://github.com/user-attachments/assets/717c2215-92db-4374-b64b-c4b2f63fc891" />
 
@@ -27,7 +25,9 @@ Markdown images always fill the width of the page. To choose a size, use an HTML
 
 <img src="women-artworks.png" alt="Bar chart of artists with the most works with 'women' in the title. Edgar Degas has the most, with 14." width="500">
 
-*Artists with the most works with "women" in the title.*
+
+## Distribution of Cause of Death
+
 
 ### Tables
 
