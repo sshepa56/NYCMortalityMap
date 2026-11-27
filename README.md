@@ -1,18 +1,29 @@
-# Python Project Template
+# Mapping Mortality in New York City
 
-This repository is a template for publishing a Python project as a website using **GitHub Pages**. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
+This repository houses a Python project as a website using **GitHub Pages**. 
 
-Everything here is plain Markdown. GitHub pages renders markdown as HTML so it is viewable in the browser.
+## Project Scope
+This project examines geographic patterns in mortality across New York City using 2023 death count data to explore post-pandemic mortality alongside health insurance enrollment, causes of death, and demographic factors. Using Python, Pandas, and Plotly, the project develops interactive visualizations to examine differences across NYC community districts and ZIP codes.
 
-## Pages in This Site
+## Discussion
 
-This home page links to two other Markdown files in the repo. Click them to see linking in action:
+## Datasets
+**Sources**: U.S. Census, NYC Open Data, NY State
+1. Deathratebycommunitydistrict.csv: Mortality data by NYC community district, including total deaths and population.
+2 . Censuspopulationbycommunitydistrict2020.csv: Population data used to calculate crude death rates.
+3. EnrollmentbyZipcodeandWrittenLanguage.csv: Health insurance enrollment counts by ZIP code, program type, and preferred written language.
+4. nyc_districts.geojson: Geographic boundaries for NYC community districts.
+5. nyc-zip-code-tabulation-areas-polygons.geojson: Geographic boundaries for NYC ZIP codes.
 
+## Pages
 - [Markdown examples](about.md) — an example page with embedded tables and images
 - [Code examples](embedding-code.md) — an example page with code examples (both as static markdown and as interactive [pyodide](https://pyodide.org/en/stable/) snippets)
 - [A JupyterLite notebook](notebook/notebooks/index.html?path=week10.ipynb) hosted on your GitHub pages site, which can run in the browser without your viewers needing to have Jupyter Lab/Anaconda etc installed
 
 Each of those pages links back here and to each other. You can open them on GitHub.com *and* on the published site — the same links work in both places.
+
+
+
 
 ## How It Works
 
