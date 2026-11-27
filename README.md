@@ -11,7 +11,7 @@ This project examines geographic patterns in mortality across New York City usin
 **Sources**: U.S. Census, NYC Open Data, NY State
 - [Mortality data by NYC community district, including total deaths and population, 2023](CommunityDistrictSingleYearCounts2023.csv)
 - [Population data used to calculate crude death rates](Censuspopulationbycommunitydistrict2020.csv)
-- [Health insurance enrollment counts by ZIP code, program type, and preferred written language](EnrollmentbyZipcodeandWrittenLanguage.csv)
+- [Health insurance enrollment counts by ZIP code, program type, and preferred written language](NYC_Program_Enrollment_by_ZIP.csvv)
 - [Geographic boundaries for NYC community districts](nyc_districts.geojson)
 - [Geographic boundaries for NYC ZIP codes](nyc-zip-code-tabulation-areas-polygons.geojson)
 
