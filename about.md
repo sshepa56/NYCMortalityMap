@@ -12,6 +12,8 @@ To add an image, put the image file in the repo and link to it with an exclamati
 
 ![Bar chart of average US Senate polling by state, split into Democrat, other/undecided, and Republican voter intention](average-senate-polling-late-october-nov.png)
 
+<img width="1108" height="2200" alt="DeathCountsbyGenderBarChartVertical" src="https://github.com/user-attachments/assets/bd6d91b4-e0df-4836-a011-8bb97c4d42b4" />
+
 *Average US Senate polling by state, late October to November 2.*
 
 The text in the square brackets is the **alt text**.
