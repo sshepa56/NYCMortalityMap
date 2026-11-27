@@ -1,15 +1,1 @@
-## Mapping Mortality and Medicaid Enrollment in NYC
 
-This interactive map explores the geographic relationship between 
-Medicaid enrollment and mortality rates among NYC residents aged 65 
-and older. Use the map controls to switch between the five layers.
-
-<iframe
-    src="{{ site.baseurl }}/NYCMortalityMedicaidOverlapMap.html"
-    width="100%"
-    height="950"
-    style="border: none;"
-    title="NYC Mortality and Medicaid Enrollment">
-</iframe>
-
-[Open Interactive Map in Full Screen](./NYCMortalityMedicaidOverlapMap.html)
